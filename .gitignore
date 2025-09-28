@@ -1,0 +1,9 @@
+# Archivos de Python y entornos
+__pycache__/
+venv/
+*.pyc
+
+# Archivos de Jupyter y Temporales
+.ipynb_checkpoints/
+*.ipynb.ipynb  # Para ignorar duplicados de libretas
+*.log
